@@ -6,7 +6,7 @@ This repository contains my CV markdown and mock interview video.
  14 Raivenscraig Rd, Woodstock, Cape Town
  067 405 3861 / 072 179 8243
  Email Address:litha.mzbk@gmail.com
-
+Github: 
 ---
 
 ## PROFESSIONAL PROFILE
@@ -91,6 +91,11 @@ National Senior Certificate (Grade 12) – 2023
 * Built a system to manage student registrations and course enrollments
 * Implemented database functionality using MySQL
 * Applied structured data handling and system design principles
+
+---
+
+## Mock Interview Video
+https://mycputac-my.sharepoint.com/:v:/g/personal/240143485_mycput_ac_za/IQDMiN_E_ef_RZjHsnKmNz5CATWEQKgD1KSKhnaQRUz8UxA?e=bbBz4T
 
 ---
 
