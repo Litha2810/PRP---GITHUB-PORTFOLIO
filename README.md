@@ -6,7 +6,7 @@ This repository contains my CV markdown and mock interview video.
  14 Raivenscraig Rd, Woodstock, Cape Town
  067 405 3861 / 072 179 8243
  Email Address:litha.mzbk@gmail.com
-Github: 
+Github: https://github.com/Litha2810
 ---
 
 ## PROFESSIONAL PROFILE
