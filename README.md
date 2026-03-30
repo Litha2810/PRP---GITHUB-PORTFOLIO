@@ -119,3 +119,21 @@ https://mycputac-my.sharepoint.com/:v:/g/personal/240143485_mycput_ac_za/IQDMiN_
 
 ---
 
+## REFERENCES
+
+Thandolwethu Siwisa
+Manager – Black Impala
+064 575 5467
+
+Zukiswa Ngoqo
+Director – Zuthama Holdings PTY LTD
+zngoqo78@gmail.com
+060 712 2310
+
+Natalie Arendse
+Principal – Noorder Paarl High School
+021 862 9810
+
+Ronique Minnaar
+Teacher / Mentor
+071 332 5853
