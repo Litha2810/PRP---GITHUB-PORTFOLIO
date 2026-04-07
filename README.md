@@ -1,12 +1,13 @@
 # PRP---GITHUB-PORTFOLIO
 This repository contains my CV markdown and mock interview video.
 
-# LITHA OWETHU MAZIBUKO
 
+# **LITHA OWETHU MAZIBUKO**
  14 Raivenscraig Rd, Woodstock, Cape Town
  067 405 3861 / 072 179 8243
  Email Address:litha.mzbk@gmail.com
 Github: https://github.com/Litha2810
+
 ---
 
 ## PROFESSIONAL PROFILE
@@ -15,15 +16,26 @@ Motivated and detail-oriented Information Technology student currently in my thi
 
 ---
 
-## EDUCATION
+## **PERSONAL DETAILS**
 
-**Cape Peninsula University of Technology (CPUT)**
-*Diploma in Information Technology*
+* Date of Birth: 28 October 2005
+* Marital Status: Single
+* Nationality: South African
+* Gender: Female
+* ID Number: 0510280144088
+* Home Language: IsiXhosa
+* Other Languages: English, Afrikaans, IsiZulu
+
+---
+
+## **EDUCATION**
+
+**Cape Peninsula University of Technology**
+Information Technology
 2024 – Present
 
 **Noorder Paarl High School**
 National Senior Certificate (Grade 12) – 2023
-
 * Achieved A Aggregate - 81.3%
 
 ---
@@ -80,6 +92,12 @@ National Senior Certificate (Grade 12) – 2023
 
 ## PROJECTS
 
+### **Freight and Delivery System**
+
+* Built a system to manage shipment bookings, pickups, and deliveries
+* Implemented real-time GPS tracking and route optimization
+* Improved delivery efficiency and visibility
+
 ### Safety App
 
 * Developed a safety-focused application designed to assist users in emergency situations
@@ -99,41 +117,33 @@ https://mycputac-my.sharepoint.com/:v:/g/personal/240143485_mycput_ac_za/IQDMiN_
 
 ---
 
-## ACHIEVEMENTS & LEADERSHIP
+## **ACHIEVEMENTS AND AWARDS**
 
+* Completed Matric with an A aggregate
 * Deputy Head Girl – Noorder Paarl High School (2023)
 * Member of Student Representative Council (2023)
-* Chief Head of Radio Club
-* Consecutive Top Achiever for 3 years
+* Top achiever for 3 consecutive years
+* Head of the Radio Club
 
 ---
 
-## PERSONAL DETAILS
+## **REFERENCES**
 
-* Date of Birth: 28 October 2005
-* Gender: Female
-* Nationality: South African
-* Marital Status: Single
-* Home Language: IsiXhosa
-* Other Languages: English, Afrikaans, IsiZulu
-
----
-
-## REFERENCES
-
-Thandolwethu Siwisa
+**Thandolwethu Siwisa**
 Manager – Black Impala
 064 575 5467
 
-Zukiswa Ngoqo
+**Zukiswa Ngoqo**
 Director – Zuthama Holdings PTY LTD
 zngoqo78@gmail.com
 060 712 2310
 
-Natalie Arendse
+**Natalie Arendse**
 Principal – Noorder Paarl High School
 021 862 9810
 
-Ronique Minnaar
+**Ronique Minnaar**
 Teacher / Mentor
 071 332 5853
+
+---
