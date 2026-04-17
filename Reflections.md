@@ -1,4 +1,4 @@
-## Reflection: Coding in Markdown (STAR Method)
+### Reflection: Coding in Markdown (STAR Method)
 
 **Situation:**  
 I was required to create my CV using Markdown on GitHub.
@@ -12,7 +12,8 @@ I researched Markdown formatting, practiced using headings, lists, and links, an
 **Result:**  
 I successfully created a professional CV on GitHub and improved my technical documentation skills.
 
-##  Reflection: Mock Interview (STAR Method)
+
+###  Reflection: Mock Interview (STAR Method)
 
 **Situation:**  
 I participated in a mock interview as part of my assessment.
@@ -26,7 +27,8 @@ I prepared answers, practiced common interview questions, and recorded my respon
 **Result:**  
 I improved my confidence, communication skills, and ability to present myself professionally.
 
-## Reflection: GitHub Pages (STAR Method)
+
+### Reflection: GitHub Pages (STAR Method)
 
 **Situation:**  
 I needed to publish my portfolio online using GitHub Pages.
